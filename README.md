@@ -2,6 +2,8 @@
 
 A simple battle simulator that pits one army against another.
 
+# The Basic Game
+
 At the start of the game, each commander is given a starting total of $10. Units are purchased and stored in their army. The commanders may spend as much or as little of their money as they desire. After the armies are assembled, the units are then made to fight each other in the order they were purchased in. Each unit in the standard game costs $1.
 
 There are three types of units available:
@@ -22,3 +24,6 @@ Each unit has a weakness and a strength. Archers are good against Soldiers but a
   Table 1: Outcomes of battles when units enter combat.  
   
 After each fight, the winner is left on the battlefield to fight the next combatant. If both units lose, then two new units are taken from the army and begin their fight.
+
+# The Extended Game
+
