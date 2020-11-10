@@ -29,14 +29,14 @@ After each fight, the winner is left on the battlefield to fight the next combat
 
 Extended game is upgradation of **Basic Game**. The two upgrades to the basic game is as following:  
 
-1. Improved Combat<br>
+1. **Improved Combat**<br>
 Combat is very simple in the original game, you can try to implement an improved version of the combat by using the following rules:<br>
 • In the cases where a unit would win, it instead deals its damage before the other unit is able to deal theirs. Soldiers hit Knights first, Archers hit Soldiers first, and Knights hit Archers first.<br>
 • Knights are able to trample other units. If the Knight is fighting an Archer and the unit behind the Archer is another Archer, then the Knight deals its damage to both Archers.<br>
 • If an Archer is at the front of its army but not in battle, they deal their damage to the opposing unit if they are still alive at the end of combat.<br>
 The changes made here effectively change the order of combat which may impact further based on choices below.
 on.
-2. Medics<br>
+2. **Medics**<br>
 Money remaining after the purchasing of armies will be used to hire and outfit medics. When a unit dies, it will be returned to the pool at the back of the army. Each time this happens, supplies for the medics decreases. Once the medics have no supplies left, they will be unable to save any more units.<br>
 Medics are hired and supplied at $1 per unit. All money at the end of army creation is spent on Medics.<br>
 
