@@ -40,4 +40,4 @@ on.
 Money remaining after the purchasing of armies will be used to hire and outfit medics. When a unit dies, it will be returned to the pool at the back of the army. Each time this happens, supplies for the medics decreases. Once the medics have no supplies left, they will be unable to save any more units.<br>
 Medics are hired and supplied at $1 per unit. All money at the end of army creation is spent on Medics.<br>
 
-
+A more deatiled description of the assignment is available [here](https://github.com/AshwaniKuSingh/Python-Battle-Simulator/blob/master/FIT9133-Assign-01.pdf)
